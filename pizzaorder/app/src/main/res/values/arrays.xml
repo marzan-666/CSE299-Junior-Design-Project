@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="pizza_size">
+        <item>Small (400Tk)</item>
+        <item>Medium (650Tk)</item>
+        <item>Large (800Tk)</item>
+    </array>
+    <array name="pizza_crust">
+        <item>Thin</item>
+        <item>Thick</item>
+        <item>Deep</item>
+        <item>Stuffed</item>
+    </array>
+    <array name="pizza_layout">
+        <item>Half</item>
+        <item>Whole</item>
+    </array>
+    <array name="payment">
+        <item>Bkash</item>
+        <item>Cash On Delivery</item>
+    </array>
+</resources>
